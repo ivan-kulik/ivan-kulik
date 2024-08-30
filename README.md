@@ -43,10 +43,14 @@
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan-kulik&theme=github_dark" height="220" alt="streak graph"  />
 </div>
-
+<img width="15" />
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ivan-kulik&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<img width="15" />
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivan-kulik&theme=github_dark" height="220" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivan-kulik&theme=github_dark&utcOffset=8" height="220" alt="streak graph"  />
 </div>
 
 
