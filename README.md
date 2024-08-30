@@ -3,11 +3,13 @@
 
 <h3 align="left">A Backend Python Developer</h3>
 
+###
 
 <h3 align="left"> About Me </h3>
 
 <p>...</p>
 
+###
 
 <h3 align="left"> Tech Stack </h3>
 
@@ -37,17 +39,24 @@
   <img width="15" />
 </div>
 
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>     
+
+###
 
 <h3 align="left"> My Stats </h3>
 
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan-kulik&theme=github_dark" height="220" alt="streak graph"  />
 </div>
-<img width="12" />
+<img width="10" />
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ivan-kulik&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<img width="12" />
+<img width="10" />
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivan-kulik&theme=github_dark" height="220" alt="streak graph"  />
   <img width="12" />
